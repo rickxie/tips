@@ -1,0 +1,1 @@
+http://mgcrea.github.io/angular-strap/#/asides
